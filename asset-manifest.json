@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/four-points/static/css/main.208db870.chunk.css",
+    "main.js": "/four-points/static/js/main.fe6eb0dd.chunk.js",
+    "main.js.map": "/four-points/static/js/main.fe6eb0dd.chunk.js.map",
+    "runtime-main.js": "/four-points/static/js/runtime-main.f789d945.js",
+    "runtime-main.js.map": "/four-points/static/js/runtime-main.f789d945.js.map",
+    "static/js/2.45ccdb42.chunk.js": "/four-points/static/js/2.45ccdb42.chunk.js",
+    "static/js/2.45ccdb42.chunk.js.map": "/four-points/static/js/2.45ccdb42.chunk.js.map",
+    "index.html": "/four-points/index.html",
+    "precache-manifest.f2094afe19015d7bf767b8c09b16bd29.js": "/four-points/precache-manifest.f2094afe19015d7bf767b8c09b16bd29.js",
+    "service-worker.js": "/four-points/service-worker.js",
+    "static/css/main.208db870.chunk.css.map": "/four-points/static/css/main.208db870.chunk.css.map",
+    "static/js/2.45ccdb42.chunk.js.LICENSE.txt": "/four-points/static/js/2.45ccdb42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f789d945.js",
+    "static/js/2.45ccdb42.chunk.js",
+    "static/css/main.208db870.chunk.css",
+    "static/js/main.fe6eb0dd.chunk.js"
+  ]
+}
